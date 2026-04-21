@@ -1,5 +1,5 @@
 # USB Attack Simulation vs Device Control Defense
-## Activity 2 – Cyber Range as a Service (CRaaS)
+## Activity 2 – Cyber Range as a Service 
 
 A GUI-based Python simulation of USB-based cyber attacks and device control defense mechanisms, built as part of an Attack-Defense Cyber Range exercise.
 
